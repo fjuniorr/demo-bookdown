@@ -1,0 +1,17 @@
+---
+title: "Guia de Transparência Ativa"
+author: "Diretoria Central de Transparência Ativa"
+site: bookdown::bookdown_site
+documentclass: book
+github-repo: fjuniorr/demo-bookdown
+output:
+  bookdown::gitbook:
+    includes:
+      in_header: hypothesis.html
+    split_by: "rmd"
+  bookdown::pdf_book: default
+---
+
+# Guia de Transparência Ativa
+
+Guia de Publicação do menu Transparência do Poder Executivo do Estado de Minas Gerais, elaborado pela Diretoria de Transparência Ativa - DTA/CGE para orientar os órgãos e entidades do Poder Executivo Estadual quanto as normas de divulgação de informações públicas espontâneas nos seus sítios eletrônicos, tendo por base a Lei Federal 12.527/2011, o Decreto Estadual nº 45.969/2012 e a Resolução SEPLAG nº 29/2016.

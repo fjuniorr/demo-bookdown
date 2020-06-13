@@ -1,0 +1,6 @@
+output_dir: "public/"
+rmd_files: ["index.Rmd", 
+            "intro.md", 
+            "conteudo.md", 
+            "menu-transparencia.md", 
+            "sic.md"]
