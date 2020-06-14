@@ -13,7 +13,6 @@
 -	Lei Federal nº 12.527/2011 – art. 10 a 14;
 -	Decreto Federal nº 7.724/2012 – art. 9º, 10 e art. 45, inc. III e IV;
 -	Decreto Estadual nº 45.969/2012 – art. 12 e 13, art. 46, inc. III e IV;
--	Resolução SEPLAG nº 29/2016 – art. 25, inc. V.
 
 ### Frequência de atualização
 
